@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: deenadayalanvaradharajan
+Build-Jdk: 21.0.5
+Implementation-Title: helloworld3
+Implementation-Version: v1.0.Java11
+Implementation-Vendor-Id: com.mylab
+Implementation-URL: 
+Created-By: Maven Integration for Eclipse
+
